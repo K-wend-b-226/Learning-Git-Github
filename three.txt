@@ -1,3 +1,7 @@
 three
 3
+<<<<<<< HEAD
 33
+New features
+=======
+>>>>>>> parent of 660d336 (Update three.txt)
